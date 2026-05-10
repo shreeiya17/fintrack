@@ -136,7 +136,7 @@ Breakpoints at 1024px and 768px for adaptive layout.
 
 ## Optional Enhancements
 
-* Dark mode
+* Dark mode switch
 * Export to CSV
 * Local storage persistence
 * Advanced filtering
